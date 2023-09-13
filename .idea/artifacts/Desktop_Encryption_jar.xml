@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Desktop_Encryption:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Desktop_Encryption_jar</output-path>
+    <root id="archive" name="Desktop_Encryption.jar">
+      <element id="module-output" name="Desktop_Encryption" />
+    </root>
+  </artifact>
+</component>
